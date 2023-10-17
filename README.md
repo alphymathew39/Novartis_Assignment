@@ -33,13 +33,17 @@ http://localhost:8080/api/users/login
 -Upload an Image:
 POST 
 http://localhost:8080/api/images/upload
-Add token
-Add file in body(form-data -> key:file, value:select
+Add  token to authorize
+Add file in body(form-data -> key:file, value:select file from folder)
 
 -View an Image:
 GET
+Add   token to authorize
 http://localhost:8080/api/images/view/{imageId}
 
 -Delete an Image:
 DELETE
+Add  token to authorize
 http://localhost:8080/api/images/delete/{imageId}
+
+
