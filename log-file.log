@@ -1,0 +1,263 @@
+17:19:47.105 [main] INFO  a.e.S.controller.ImageController - Deleting image with ID: imageId123
+17:19:47.117 [main] INFO  a.e.S.controller.ImageController - Image deleted successfully.
+17:19:47.207 [main] INFO  a.e.S.controller.ImageController - Viewing image with ID: imageId123
+17:19:47.208 [main] INFO  a.e.S.controller.ImageController - Image viewed successfully.
+17:19:47.223 [main] INFO  a.e.S.controller.ImageController - Uploading image...
+17:19:47.224 [main] INFO  a.e.S.controller.ImageController - Image uploaded successfully. Image ID: imageId123
+17:22:46.464 [main] INFO  a.e.S.controller.ImageController - Uploading image...
+17:22:46.477 [main] ERROR a.e.S.controller.ImageController - Failed to upload image.
+17:22:46.528 [main] INFO  a.e.S.controller.ImageController - Deleting image with ID: imageId123
+17:22:46.531 [main] INFO  a.e.S.controller.ImageController - Image deleted successfully.
+17:22:46.537 [main] INFO  a.e.S.controller.ImageController - Deleting image with ID: imageId123
+17:22:46.538 [main] ERROR a.e.S.controller.ImageController - Failed to delete image.
+17:22:46.545 [main] INFO  a.e.S.controller.ImageController - Viewing image with ID: imageId123
+17:22:46.545 [main] INFO  a.e.S.controller.ImageController - Image viewed successfully.
+17:22:46.554 [main] INFO  a.e.S.controller.ImageController - Uploading image...
+17:22:46.554 [main] INFO  a.e.S.controller.ImageController - Image uploaded successfully. Image ID: imageId123
+17:22:46.560 [main] INFO  a.e.S.controller.ImageController - Viewing image with ID: imageId123
+17:22:46.560 [main] ERROR a.e.S.controller.ImageController - Image not found.
+17:23:41.459 [main] INFO  a.e.S.controller.ImageController - Uploading image...
+17:23:41.478 [main] ERROR a.e.S.controller.ImageController - Failed to upload image.
+17:23:41.825 [main] INFO  a.e.S.controller.ImageController - Deleting image with ID: imageId123
+17:23:41.828 [main] INFO  a.e.S.controller.ImageController - Image deleted successfully.
+17:23:41.848 [main] INFO  a.e.S.controller.ImageController - Deleting image with ID: imageId123
+17:23:41.848 [main] ERROR a.e.S.controller.ImageController - Failed to delete image.
+17:23:41.865 [main] INFO  a.e.S.controller.ImageController - Viewing image with ID: imageId123
+17:23:41.865 [main] INFO  a.e.S.controller.ImageController - Image viewed successfully.
+17:23:41.882 [main] INFO  a.e.S.controller.ImageController - Uploading image...
+17:23:41.883 [main] INFO  a.e.S.controller.ImageController - Image uploaded successfully. Image ID: imageId123
+17:23:41.894 [main] INFO  a.e.S.controller.ImageController - Viewing image with ID: imageId123
+17:23:41.894 [main] ERROR a.e.S.controller.ImageController - Image not found.
+17:32:30.323 [main] INFO  a.e.S.controller.UserController - Registering a new user: testUser
+17:32:30.333 [main] INFO  a.e.S.controller.UserController - User registration successful.
+17:33:21.975 [main] INFO  a.e.S.controller.UserController - User login attempt: testUser
+17:33:21.985 [main] WARN  a.e.S.controller.UserController - Authentication failed. User not found.
+17:33:22.094 [main] INFO  a.e.S.controller.UserController - User login attempt: testUser
+17:33:22.095 [main] INFO  a.e.S.controller.UserController - User authenticated successfully: testUser
+17:33:22.103 [main] INFO  a.e.S.controller.UserController - Registering a new user: testUser
+17:33:22.104 [main] INFO  a.e.S.controller.UserController - User registration successful.
+17:33:22.110 [main] INFO  a.e.S.controller.UserController - Registering a new user: testUser
+17:33:22.111 [main] ERROR a.e.S.controller.UserController - User registration failed.
+17:33:22.118 [main] INFO  a.e.S.controller.UserController - User login attempt: testUser
+17:33:22.118 [main] WARN  a.e.S.controller.UserController - Authentication failed. Incorrect credentials.
+17:37:46.968 [main] INFO  a.e.S.controller.ImageController - Uploading image...
+17:37:46.975 [main] ERROR a.e.S.controller.ImageController - Failed to upload image.
+17:37:47.028 [main] INFO  a.e.S.controller.ImageController - Deleting image with ID: 12345
+17:37:47.033 [main] INFO  a.e.S.controller.ImageController - Image deleted successfully.
+17:37:47.039 [main] INFO  a.e.S.controller.ImageController - Deleting image with ID: 12345
+17:37:47.040 [main] ERROR a.e.S.controller.ImageController - Failed to delete image.
+17:37:47.046 [main] INFO  a.e.S.controller.ImageController - Viewing image with ID: 12345
+17:37:47.048 [main] INFO  a.e.S.controller.ImageController - Image viewed successfully.
+17:37:47.053 [main] INFO  a.e.S.controller.ImageController - Uploading image...
+17:37:47.054 [main] INFO  a.e.S.controller.ImageController - Image uploaded successfully. Image ID: 12345
+17:37:47.059 [main] INFO  a.e.S.controller.ImageController - Viewing image with ID: 12345
+17:37:47.059 [main] ERROR a.e.S.controller.ImageController - Image not found.
+17:40:04.765 [main] INFO  a.e.S.controller.ImageController - Uploading image...
+17:40:04.777 [main] ERROR a.e.S.controller.ImageController - Failed to upload image.
+17:40:04.849 [main] INFO  a.e.S.controller.ImageController - Deleting image with ID: 12345
+17:40:04.856 [main] INFO  a.e.S.controller.ImageController - Image deleted successfully.
+17:40:04.863 [main] INFO  a.e.S.controller.ImageController - Deleting image with ID: 12345
+17:40:04.863 [main] ERROR a.e.S.controller.ImageController - Failed to delete image.
+17:40:04.873 [main] INFO  a.e.S.controller.ImageController - Viewing image with ID: 12345
+17:40:04.873 [main] INFO  a.e.S.controller.ImageController - Image viewed successfully.
+17:40:04.887 [main] INFO  a.e.S.controller.ImageController - Uploading image...
+17:40:04.888 [main] INFO  a.e.S.controller.ImageController - Image uploaded successfully. Image ID: 12345
+17:40:04.899 [main] INFO  a.e.S.controller.ImageController - Viewing image with ID: 12345
+17:40:04.899 [main] ERROR a.e.S.controller.ImageController - Image not found.
+17:46:24.453 [main] INFO  a.e.S.controller.UserController - User login attempt: testUser
+17:46:24.464 [main] WARN  a.e.S.controller.UserController - Authentication failed. Incorrect credentials.
+17:46:24.538 [main] INFO  a.e.S.controller.UserController - User login attempt: nonExistentUser
+17:46:24.539 [main] WARN  a.e.S.controller.UserController - Authentication failed. User not found.
+17:46:24.565 [main] INFO  a.e.S.controller.UserController - Registering a new user: null
+17:46:24.566 [main] INFO  a.e.S.controller.UserController - User registration successful.
+17:46:24.578 [main] INFO  a.e.S.controller.UserController - Registering a new user: null
+17:46:24.578 [main] ERROR a.e.S.controller.UserController - User registration failed.
+17:51:23.793 [main] INFO  a.e.S.controller.UserController - User login attempt: testUser
+17:51:23.798 [main] WARN  a.e.S.controller.UserController - Authentication failed. Incorrect credentials.
+17:51:23.857 [main] INFO  a.e.S.controller.UserController - User login attempt: nonExistentUser
+17:51:23.858 [main] WARN  a.e.S.controller.UserController - Authentication failed. User not found.
+17:51:23.878 [main] INFO  a.e.S.controller.UserController - Registering a new user: null
+17:51:23.879 [main] INFO  a.e.S.controller.UserController - User registration successful.
+17:51:23.886 [main] INFO  a.e.S.controller.UserController - Registering a new user: null
+17:51:23.887 [main] ERROR a.e.S.controller.UserController - User registration failed.
+17:51:23.897 [main] INFO  a.e.S.controller.UserController - User login attempt: testUser
+17:51:23.897 [main] WARN  a.e.S.controller.UserController - Authentication failed. Incorrect credentials.
+17:53:02.447 [main] INFO  a.e.S.controller.UserController - User login attempt: testUser
+17:53:02.453 [main] INFO  a.e.S.controller.UserController - User authenticated successfully: testUser
+17:53:02.493 [main] INFO  a.e.S.controller.UserController - User login attempt: nonExistentUser
+17:53:02.494 [main] WARN  a.e.S.controller.UserController - Authentication failed. User not found.
+17:53:02.506 [main] INFO  a.e.S.controller.UserController - Registering a new user: null
+17:53:02.506 [main] INFO  a.e.S.controller.UserController - User registration successful.
+17:53:02.516 [main] INFO  a.e.S.controller.UserController - Registering a new user: null
+17:53:02.516 [main] ERROR a.e.S.controller.UserController - User registration failed.
+17:53:02.528 [main] INFO  a.e.S.controller.UserController - User login attempt: testUser
+17:53:02.529 [main] WARN  a.e.S.controller.UserController - Authentication failed. Incorrect credentials.
+17:53:23.756 [main] INFO  a.e.S.controller.UserController - User login attempt: testUser
+17:53:23.763 [main] INFO  a.e.S.controller.UserController - User authenticated successfully: testUser
+17:53:23.808 [main] INFO  a.e.S.controller.UserController - User login attempt: nonExistentUser
+17:53:23.808 [main] WARN  a.e.S.controller.UserController - Authentication failed. User not found.
+17:53:23.816 [main] INFO  a.e.S.controller.UserController - Registering a new user: null
+17:53:23.816 [main] INFO  a.e.S.controller.UserController - User registration successful.
+17:53:23.824 [main] INFO  a.e.S.controller.UserController - Registering a new user: null
+17:53:23.824 [main] ERROR a.e.S.controller.UserController - User registration failed.
+17:53:23.831 [main] INFO  a.e.S.controller.UserController - User login attempt: testUser
+17:53:23.832 [main] WARN  a.e.S.controller.UserController - Authentication failed. Incorrect credentials.
+17:58:08.877 [main] INFO  a.e.S.service.ImgurService - Uploading image...
+17:58:08.908 [main] INFO  a.e.S.service.ImgurService - Image deleted successfully.
+17:58:08.915 [main] INFO  a.e.S.service.ImgurService - Image deleted successfully.
+17:58:08.937 [main] ERROR a.e.S.service.ImgurService - Error during image deletion: Some error
+java.lang.RuntimeException: Some error
+	at alphy.example.SpringBootApplication_Novartis_Assignment.service.ImgurService.deleteImage(ImgurService.java:97)
+	at alphy.example.SpringBootApplication_Novartis_Assignment.service.ImgurServiceTest.lambda$testDeleteImageFailureService$2(ImgurServiceTest.java:151)
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:55)
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:37)
+	at org.junit.jupiter.api.Assertions.assertThrows(Assertions.java:3082)
+	at alphy.example.SpringBootApplication_Novartis_Assignment.service.ImgurServiceTest.testDeleteImageFailureService(ImgurServiceTest.java:151)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:725)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:149)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:140)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:84)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(ExecutableInvoker.java:115)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.lambda$invoke$0(ExecutableInvoker.java:105)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:104)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:98)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:214)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:210)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:135)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:66)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:107)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86)
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:71)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:235)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:54)
+17:58:08.972 [main] ERROR a.e.S.service.ImgurService - Permission denied for image deletion. Check token permissions.
+17:58:08.982 [main] ERROR a.e.S.service.ImgurService - Error during image deletion: 404 NOT_FOUND
+org.springframework.web.client.HttpClientErrorException: 404 NOT_FOUND
+	at alphy.example.SpringBootApplication_Novartis_Assignment.service.ImgurService.deleteImage(ImgurService.java:97)
+	at alphy.example.SpringBootApplication_Novartis_Assignment.service.ImgurServiceTest.lambda$testDeleteImageFailureClient$1(ImgurServiceTest.java:140)
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:55)
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:37)
+	at org.junit.jupiter.api.Assertions.assertThrows(Assertions.java:3082)
+	at alphy.example.SpringBootApplication_Novartis_Assignment.service.ImgurServiceTest.testDeleteImageFailureClient(ImgurServiceTest.java:140)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:725)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:149)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:140)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:84)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(ExecutableInvoker.java:115)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.lambda$invoke$0(ExecutableInvoker.java:105)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:104)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:98)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:214)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:210)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:135)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:66)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:107)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86)
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:71)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:235)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:54)
+17:58:08.988 [main] INFO  a.e.S.service.ImgurService - Uploading image...
+18:05:15.172 [main] INFO  a.e.S.service.UserDetailsServiceImpl - Loading user by username: testUser
+18:05:15.208 [main] INFO  a.e.S.service.UserDetailsServiceImpl - Loading user by username: nonExistentUser
+18:05:15.208 [main] WARN  a.e.S.service.UserDetailsServiceImpl - User not found with username: nonExistentUser
+18:08:02.839 [main] INFO  a.e.S.service.UserService - Registering user: testUser
