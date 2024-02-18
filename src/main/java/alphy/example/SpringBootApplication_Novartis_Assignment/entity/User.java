@@ -16,6 +16,7 @@ import java.util.Set;
 @Setter
 @Table(name = "users")
 public class User {
+    //entity class
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
