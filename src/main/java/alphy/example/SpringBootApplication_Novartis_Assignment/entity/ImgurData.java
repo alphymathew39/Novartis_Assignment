@@ -16,10 +16,8 @@ import java.io.Serializable;
 @Getter
 @Setter
 @Table(name = "imgur_data")
+//entity classhhhhh
 public class ImgurData implements Serializable {
-    //entity class
-    //entity class
-    //entity class
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
