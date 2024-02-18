@@ -17,6 +17,7 @@ import java.io.Serializable;
 @Setter
 @Table(name = "imgur_data")
 public class ImgurData implements Serializable {
+    //entity class
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @JsonDeserialize(using = ImgurIdDeserializer.class)
