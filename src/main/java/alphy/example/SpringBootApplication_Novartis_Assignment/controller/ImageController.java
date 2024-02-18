@@ -12,7 +12,7 @@ import org.springframework.web.multipart.MultipartFile;
 @RestController
 @RequestMapping("/api/images")
 public class ImageController {
-
+//controller
     private static final Logger logger = LoggerFactory.getLogger(ImageController.class);
 
     @Autowired
